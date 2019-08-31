@@ -1,0 +1,41 @@
+
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+#header{
+ padding:20px;
+ text-align:center;
+ background-color:lightblue;
+ color: black;
+ font-size:15px;
+ border-style:double;
+ border-color: black;
+}
+
+table, th,td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding:5px;
+}
+
+img{
+  float:right;
+  border-radius: 8px;
+  width:100px;
+  height:100px;
+}
+
+.test{
+float:right;
+background-color:aqua;
+height: 850px;
+width: 30%;
+}
+
+h1{
+font-size:24px;
+font-color:blue;
+font-family:verdana;
+}
